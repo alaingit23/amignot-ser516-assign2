@@ -8,3 +8,5 @@ class Greeter:
 
     def greet_formal(self, name):
         return f"Good day, {name}."
+
+# This comment is to trigger the Jenkins pipeline with a commit.
